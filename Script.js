@@ -1,7 +1,5 @@
 // Replace this with YOUR Worker URL
 const DATA_URL = "https://poke-tracker.cconnoroliveira.workers.dev";
-
-
 ;
 
 async function loadData() {
